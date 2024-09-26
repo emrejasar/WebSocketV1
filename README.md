@@ -1,6 +1,4 @@
-# WS
-
-## An simple chat app
+# websockets
 
 ## What i learned:
 
