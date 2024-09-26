@@ -2,7 +2,7 @@
 
 ## An simple chat app
 
-###What i learned:
+#What i learned:
 
 -How WebSocket establishes a persistent connection between client and server.
 
